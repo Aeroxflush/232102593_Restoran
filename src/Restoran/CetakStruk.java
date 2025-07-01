@@ -37,7 +37,7 @@ public class CetakStruk extends javax.swing.JFrame {
         jScrollPane2 = new javax.swing.JScrollPane();
         txtStruk = new javax.swing.JTextArea();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
         setTitle("Cetak Struk");
 
         btnPrint.setText("PRINT");
